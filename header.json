@@ -1,0 +1,7 @@
+{
+	"color": "blue",
+	"routes": [
+		{"url":"/blog", "name":"Blog"},
+		{"url":"/aboutme", "name":"About Me"}
+	]
+}
