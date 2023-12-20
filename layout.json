@@ -1,0 +1,40 @@
+{
+    "header": {
+        "style": {
+            "color":{
+                "backGround": "#FFFFFF",
+                "font": "#1A1A1A"
+            }
+        },
+        "routes": [
+            {"url":"/blog", "name":"Blog"},
+            {"url":"/projects", "name":"Projects"},
+            {"url":"/about", "name":"About"},
+            {"url":"/newsletter", "name":"Newsletter"}
+        ],
+        "logo": "https://upload.wikimedia.org/wikipedia/commons/8/85/Logo-Test.png"
+    },
+    "footer": {
+        "style": {
+            "color":{
+                "backGround": "#FFFFFF",
+                "font": "#1A1A1A"
+            }
+        },
+        "link": [
+            {
+                "content": "Instagram",
+                "href": "https://www.instagram.com/"
+            },
+            {
+                "content": "Facebook",
+                "href": "https://www.facebook.com/"
+            },
+            {
+                "content": "Google",
+                "href": "https://www.google.com/"
+            }
+        ],
+        "license": "@ 2023 MIT"
+    }
+}
