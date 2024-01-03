@@ -9,7 +9,7 @@
         "routes": [
             {"url":"/blog", "name":"Blog"},
             {"url":"/projects", "name":"Projects"},
-            {"url":"/about", "name":"About"},
+            {"url":"/aboutme", "name":"About"},
             {"url":"/newsletter", "name":"Newsletter"}
         ],
         "logo": "https://upload.wikimedia.org/wikipedia/commons/8/85/Logo-Test.png"
